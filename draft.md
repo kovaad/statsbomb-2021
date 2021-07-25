@@ -35,7 +35,7 @@ We might find that it matters less whether a player comes from seemingly differe
 
 #### Ádám
 
-> ? 
+> Played U5-U19 in Hungarian 1st and 2nd division teams, played one season in 1st division Futsal in U20 level, playing amateur level since. Worked as assistant football coach in summer camps for U12 children for three consecutive summers.  
 
 ### Data Analysis experience
 
@@ -45,7 +45,7 @@ We might find that it matters less whether a player comes from seemingly differe
 
 #### Ádám
 
-> ?
+> Have used R and Python for a few years now, studied data analysis as part of Applied Economics BA programme, got admitted to Business Analytics/Data Science MSc at CEU. 
 
 ### Presenting experience
 
@@ -55,7 +55,7 @@ We might find that it matters less whether a player comes from seemingly differe
 
 #### Ádám
 
-> ?
+> Presented papers at Oxford University's Summer School in Ecnomic Networks and International Conference on Computational Social Science. 
 
 
 ## Notes
