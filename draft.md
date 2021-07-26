@@ -55,7 +55,7 @@ We might find that it matters less whether a player comes from seemingly differe
 
 #### Ádám
 
-> ?
+> .
 
 
 ## Notes
